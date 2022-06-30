@@ -219,7 +219,7 @@ TABLE
   2
 LAYER
   5
-A0F
+A0D
 330
 0
 100
@@ -229,9 +229,9 @@ AcDbSymbolTable
   0
 LAYER
   5
-A10
+A0E
 330
-A0F
+A0D
 100
 AcDbSymbolTableRecord
 100
@@ -247,9 +247,9 @@ CONTINUOUS
   0
 LAYER
   5
-A11
-330
 A0F
+330
+A0D
 100
 AcDbSymbolTableRecord
 100
@@ -265,15 +265,15 @@ CONTINUOUS
   0
 LAYER
   5
-A12
+A10
 330
-A0F
+A0D
 100
 AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-Shape2DView004
+Shape2DView005
  70
     0
  62
@@ -691,7 +691,7 @@ SECTION
   2
 ENTITIES
   0
-ELLIPSE
+CIRCLE
   5
 A08
 330
@@ -699,29 +699,17 @@ A02
 100
 AcDbEntity
   8
-Shape2DView004
+Shape2DView005
 100
-AcDbEllipse
+AcDbCircle
  10
-1.31134e-06
+0
  20
 0
- 30
-0
- 11
-6.73556e-15
- 21
--55
- 31
-0
  40
-1
- 41
-1.76103
- 42
-1.38056
+49.3471
   0
-LINE
+CIRCLE
   5
 A09
 330
@@ -729,23 +717,17 @@ A02
 100
 AcDbEntity
   8
-Shape2DView004
+Shape2DView005
 100
-AcDbLine
+AcDbCircle
  10
-54.0078
+8
  20
--10.4
- 30
-0
- 11
-20.0078
- 21
--10.4
- 31
-0
+-17
+ 40
+5
   0
-LINE
+CIRCLE
   5
 A0A
 330
@@ -753,23 +735,17 @@ A02
 100
 AcDbEntity
   8
-Shape2DView004
+Shape2DView005
 100
-AcDbLine
+AcDbCircle
  10
-20.0078
+36.2407
  20
--10.4
- 30
-0
- 11
-20.0078
- 21
-10.4
- 31
-0
+-20.9236
+ 40
+1.6
   0
-LINE
+CIRCLE
   5
 A0B
 330
@@ -777,23 +753,17 @@ A02
 100
 AcDbEntity
   8
-Shape2DView004
+Shape2DView005
 100
-AcDbLine
+AcDbCircle
  10
-20.0078
+-36.2407
  20
-10.4
- 30
-0
- 11
-54.0078
- 21
-10.4
- 31
-0
+-20.9236
+ 40
+1.6
   0
-ELLIPSE
+CIRCLE
   5
 A0C
 330
@@ -801,87 +771,15 @@ A02
 100
 AcDbEntity
   8
-Shape2DView004
+Shape2DView005
 100
-AcDbEllipse
+AcDbCircle
  10
-23.25
+0
  20
--40.2702
- 30
-0
- 11
-1.95943e-16
- 21
--1.6
- 31
-0
+41.8471
  40
-1
- 41
-0
- 42
-6.28318
-  0
-ELLIPSE
-  5
-A0D
-330
-A02
-100
-AcDbEntity
-  8
-Shape2DView004
-100
-AcDbEllipse
- 10
-23.25
- 20
-40.2702
- 30
-0
- 11
-1.95943e-16
- 21
--1.6
- 31
-0
- 40
-1
- 41
-0
- 42
-6.28318
-  0
-ELLIPSE
-  5
-A0E
-330
-A02
-100
-AcDbEntity
-  8
-Shape2DView004
-100
-AcDbEllipse
- 10
--46.5
- 20
-0
- 30
-0
- 11
-1.95943e-16
- 21
--1.6
- 31
-0
- 40
-1
- 41
-0
- 42
-6.28318
+1.6
   0
 ENDSEC
   0
